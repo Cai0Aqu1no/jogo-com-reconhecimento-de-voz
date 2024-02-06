@@ -10,6 +10,6 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-##Jogo Multiplayer
+## Jogo Multiplayer
 
 ## O jogo é sobre descobrir o número secreto gerado "aleatóriamente" pela máquina através de tentativas de chutes por voz.
